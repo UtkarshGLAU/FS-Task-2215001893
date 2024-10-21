@@ -22,4 +22,9 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
+    background-color: #ffffff;
+}
+.element{
+    width: 100%;
+    background: linear-gradient(to right, #fffefe, #484848);
 }
