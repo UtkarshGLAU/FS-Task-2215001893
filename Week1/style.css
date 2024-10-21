@@ -1,0 +1,25 @@
+a{
+    color: #000;
+    text-decoration: none;
+}
+a:hover{
+    color: #cd5858;
+}
+a:active{
+    color: #cdbb58;
+}
+.Hour{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    font-size: 30px;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
